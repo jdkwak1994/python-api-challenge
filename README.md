@@ -1,6 +1,8 @@
 # Python API Challenge
 python-api-challenge week 6 homework, done by Jeongdae (JD) Kwak.
 
+**Note:** API keys are changed after the completion of the homework assignment.
+
 ## Background
 Whether financial, political, or social -- data's true power lies in its ability to answer questions definitively. So let's take what you've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
 
