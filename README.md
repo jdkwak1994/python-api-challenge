@@ -6,7 +6,7 @@ The purpose of this project is to analyze weather data from various cities acros
 
 ---
 
-### Project Description
+## Project Description
 **Step 1: WeatherPy**
 * Randomly select 2000 sets of latitude and longitude, find the nearest city on the picked set (discard repeated cities), and perform weather API calls and gather various weather data.
 * Create scatter plot on the following:
@@ -37,5 +37,5 @@ The purpose of this project is to analyze weather data from various cities acros
 * Using Google Places API to find the first hotel for each city located within 5000 meters of the coordinates.
 * Plot the hotels on top of the humidity heatmap with map marker.
 
-### Final Screenshot
+## Final Screenshot
 ![Screenshot](output_resource/map_marker.png "Screenshot")
